@@ -1,7 +1,7 @@
 ## 2026 International SWE New Grad Positions :mortar_board::globe_with_meridians:
 
 ### USA Positions :eagle:
-- [Internships :books:](/) - **509** available ([FAANG+](/#faang), [Quant](/#quant), [Other](/#other))
+- [Internships :books:](/) - **510** available ([FAANG+](/#faang), [Quant](/#quant), [Other](/#other))
 - [New Graduate :mortar_board:](/NEW_GRAD_USA.md) - **360** available ([FAANG+](/NEW_GRAD_USA.md#faang), [Quant](/NEW_GRAD_USA.md#quant), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions :globe_with_meridians:
